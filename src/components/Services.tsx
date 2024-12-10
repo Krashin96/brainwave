@@ -12,7 +12,7 @@ import { Gradient } from "./design/Hero";
 
 export default function Services() {
   return (
-    <Section id="services">
+    <Section id="how-to-use">
       <div className="container">
         <Heading
           title="Generative AI made for creators."
